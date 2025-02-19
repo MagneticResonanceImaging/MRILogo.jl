@@ -58,4 +58,4 @@ begin
   fig
 end
 
-save("logo_makie.png", fig)
+save("assets/logo_makie.png", fig)
